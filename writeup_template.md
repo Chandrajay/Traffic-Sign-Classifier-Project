@@ -19,14 +19,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Visualization before"
-[image2]: ./examples/visual2.png "Visualization after "
-[image3]: ./examples/traffic sign.png "Traffic Sign"
-[image4]: ./examples/guess.png "prediction"
-[image5]: ./examples/prob.png "probability"
-[image6]: ./examples/gray.png "grayscale"
-[image7]: ./examples/leNet.png "leNet"
-[image8]: ./examples/softmax.png "Top 5 prediction"
+[image1]: ./examples/visual1.jpg "Visualization before"
+[image2]: ./examples/visual2.jpg "Visualization after "
+[image3]: ./examples/traffic sign.jpg "Traffic Sign"
+[image4]: ./examples/guess.jpg "prediction"
+[image5]: ./examples/prob.jpg "probability"
+[image6]: ./examples/gray.jpg "grayscale"
+[image7]: ./examples/leNet.jpg "leNet"
+[image8]: ./examples/softmax.jpg "Top 5 prediction"
 
 
 ## Rubric Points
