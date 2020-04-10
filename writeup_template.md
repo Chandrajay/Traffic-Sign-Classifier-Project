@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visual1.png "Visualization before"
+[image1]: ./examples/grayscale.jpg "Visualization before"
 [image2]: ./examples/visual2.png "Visualization after "
 [image3]: ./examples/traffic sign.png "Traffic Sign"
 [image4]: ./examples/guess.png "prediction"
