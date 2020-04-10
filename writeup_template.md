@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/visual1.jpg "Visualization before"
 [image2]: ./examples/visual2.jpg "Visualization after "
-[image3]: ./examples/trafficsign.jpg "Traffic Sign"
+[image3]: ./examples/trafficsigns.jpg "Traffic Sign"
 [image4]: ./examples/guess.jpg "prediction"
 [image5]: ./examples/prob.jpg "probability"
 [image6]: ./examples/gray.jpg "grayscale"
@@ -133,8 +133,6 @@ The results shown 100% prediction on the right image in the first go
 The code for making predictions on my final model is as follows
 
 ![alt text][image8]
-
-![alt text][image5]
 
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
