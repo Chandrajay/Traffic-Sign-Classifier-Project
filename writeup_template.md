@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/visual1.jpg "Visualization before"
 [image2]: ./examples/visual2.jpg "Visualization after "
-[image3]: ./examples/traffic_sign.jpg "Traffic Sign"
+[image3]: ./examples/trafficsign.jpg "Traffic Sign"
 [image4]: ./examples/guess.jpg "prediction"
 [image5]: ./examples/prob.jpg "probability"
 [image6]: ./examples/gray.jpg "grayscale"
