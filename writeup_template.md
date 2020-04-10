@@ -89,7 +89,6 @@ The difference between the original data set and the augmented data set is the f
 
 My final model consisted of the following layers:
 
-
 ![alt text][image7]
 
 
