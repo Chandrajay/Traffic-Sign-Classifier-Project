@@ -23,11 +23,10 @@ The goals / steps of this project are the following:
 [image2]: ./examples/visual2.jpg "Visualization after "
 [image3]: ./examples/trafficsigns.jpg "Traffic Sign"
 [image4]: ./examples/guess.jpg "prediction"
-[image5]: ./examples/predict.jpg "probability"
+[image5]: ./examples/prob.jpg "probability"
 [image6]: ./examples/gray.jpg "grayscale"
 [image7]: ./examples/leNet.jpg "leNet"
 [image8]: ./examples/softmax.jpg "Top 5 prediction"
-[image9]: ./examples/prob.jpg "probability"
 
 
 ## Rubric Points
@@ -125,7 +124,7 @@ The few images might be difficult to classify because there are few too much noi
 
 Here are the results of the prediction:
 
-![alt text][image5]
+![alt text][image4]
 
 The results shown 100% prediction on the right image in the first go
 
@@ -134,7 +133,8 @@ The results shown 100% prediction on the right image in the first go
 The code for making predictions on my final model is as follows
 
 ![alt text][image8]
-![alt text][image4]
+
+![alt text][image5]
 
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
