@@ -94,7 +94,7 @@ My final model consisted of the following layers:
 
 #### 3. Describe how you trained your model. The discussion can include the type of optimizer, the batch size, number of epochs and any hyperparameters such as learning rate.
 
-To train the model, I used training_epochs =20
+To train the model, I used training_epochs =15
 train_batch_size = 50
 display_step = 1
 
@@ -102,8 +102,8 @@ display_step = 1
 
 My final model results were
 
-* validation set accuracy of 99.3%
-* test set accuracy of 72.4%
+* validation set accuracy of 99.2%
+* test set accuracy of 76.6%
 
 If an iterative approach was chosen:
 * What was the first architecture that was tried and why was it chosen?
