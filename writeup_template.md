@@ -140,4 +140,9 @@ The code for making predictions on my final model is as follows
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 
+The accuracy level was 99.2% on validation data set and 76% on taining data set, I have given random labels that are not included in the new test data and the accuracy on the new test data was 77%.
+There were few signs that the machine wasn't 100% sure, but still the machine was able to guess the proper class with highest probability, so that the highest proirity can be given to the class that has high probability.
+The Neural network might have used various characteristcs like the shape of the sign (circular, traingular) which is used to calssify the right object.
 
+
+The project was ver interesting, I learend that the batch size, learning rate, epochs and no. of training sets are important factors to be considered here. Increasing the no of image data is most vital part as the more you feed the machiine and train the data, the more the machine can learn. I'd like to thank Jeremy Shannon for his git hub contents, Thre references were very helpful to complete this project.
